@@ -1,0 +1,23 @@
+body{
+    background-image:url("nat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+h2{
+    color: orangered;
+    font-style:oblique;
+}
+
+.user{
+    color:rgb(214, 12, 12);
+}
+#name{
+    color:rgb(214, 12, 12);
+    letter-spacing: 3px;
+}
+
+div{
+    color:#0abfec;
+}
